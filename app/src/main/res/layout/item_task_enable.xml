@@ -25,7 +25,7 @@
             android:textColor="@color/white"
             android:textSize="16sp"
             android:textStyle="bold"
-            tools:text="go" />
+            tools:text="Салфетка" />
 
         <TextView
             android:id="@+id/tv_count"
@@ -34,7 +34,7 @@
             android:textColor="@color/white"
             android:textSize="16sp"
             android:textStyle="bold"
-            tools:text="gotcha" />
+            tools:text="10" />
     </LinearLayout>
 
 </androidx.cardview.widget.CardView>

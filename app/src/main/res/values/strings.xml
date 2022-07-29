@@ -6,9 +6,8 @@
     <string name="get">Получить</string>
     <string name="add">Добавить</string>
     <string name="remove">Удалить</string>
-    <string name="redactor_toast">Редактируемая строка не может быть пустой</string>
-    <string name="put_the_news">Put the news</string>
-    <string name="todo">TODO</string>
+    <string name="redactor_toast">Введите товар или количество</string>
+    <string name="put_the_news">Введите товар</string>
     <string name="save_text">Сохранить текст</string>
-    <string name="put_the_count">put the count</string>
+    <string name="put_the_count">Введите количество</string>
 </resources>
