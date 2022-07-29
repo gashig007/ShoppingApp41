@@ -6,7 +6,6 @@ import com.geektech.shoppingapp.data.model.ShopItemDBModel
 
 @Dao
 interface ShopItemDao {
-
     @Query("SELECT * FROM shop_item")
     fun getAll(): LiveData<List<ShopItemDBModel>>
 
